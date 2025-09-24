@@ -4,8 +4,8 @@
 
 Email Me 👉 ✉️ **jaisaini4a@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on Fully Functional and Deployment ready E-Commerce Website
-- 🌱 I’m currently learning Next.js and TypeScript
+- 🔭 I’m currently working on Fully Functional and Deployment ready Websites.
+- 🌱 I’m currently learning Next.js and TypeScript.
 
 
 ## 🌐 Socials:
